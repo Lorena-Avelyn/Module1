@@ -67,8 +67,15 @@ Thus, the program as been excuted successfully.
 To write a Python program that prints the characters `'T'` and `'a'` using character literals.
 
 ## 🧠 Algorithm
-1. Print the character `'T'`.
-2. Print the character `'a'`.
+
+1.Declare a variable v and assign the character 'T' to it.
+
+2.Declare a variable b and assign the character 'a' to it.
+
+3.Print the value stored in variable v.
+
+4.Print the value stored in variable b.
+.
 
 ## 🧾 Program
 ```
@@ -84,7 +91,7 @@ print(b)
 ## Result
 Thus, the program is executed sucessfully.
 
-# 1d.🧮 Datatypes-Complex Number Creation in Python
+# 1d.Datatypes-Complex Number Creation in Python
 
 ## 🎯 Aim
 To write a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts.
